@@ -13,7 +13,7 @@ Task List
 - [x] Design PCB
 - [X] Design Case
 - [x] Order PCB
-- [ ] Order Parts
+- [X] Order Parts
 - [ ] Buld PCB
 - [ ] 3d Print Case
 - [ ] Assemble
