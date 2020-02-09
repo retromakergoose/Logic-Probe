@@ -7,6 +7,19 @@ https://www.allaboutcircuits.com/projects/diy-tools-build-your-own-logic-probe/
 
 This is a logic probe for testing circuits. I started this when i got a Commodore 64 and watched many Youtube videos on restoration in which logic probes were used for diagnoses.
 
+Task List
+
+- [x] Create Schematic
+- [x] Design PCB
+- [ ] Design Case
+- [x] Order PCB
+- [ ] Order Parts
+- [ ] Buld PCB
+- [ ] 3d Print Case
+- [ ] Assemble
+- [ ] Test
+
+
 Revision History
 
 [Rev 1.0](https://github.com/goose35/Logic-Probe/releases/tag/R1.0) Fist go. This PCB is on order
