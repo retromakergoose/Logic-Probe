@@ -11,7 +11,7 @@ Task List
 
 - [x] Create Schematic
 - [x] Design PCB
-- [ ] Design Case
+- [X] Design Case
 - [x] Order PCB
 - [ ] Order Parts
 - [ ] Buld PCB
