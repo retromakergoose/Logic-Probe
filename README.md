@@ -14,7 +14,7 @@ Task List
 - [X] Design Case
 - [x] Order PCB
 - [X] Order Parts
-- [ ] Buld PCB
+- [X] Buld PCB
 - [ ] 3d Print Case
 - [ ] Assemble
 - [ ] Test
