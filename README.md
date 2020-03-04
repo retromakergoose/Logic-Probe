@@ -17,7 +17,7 @@ Task List
 - [X] Buld PCB
 - [X] 3d Print Case
 - [X] Assemble
-- [] Test
+- [X] Test
 
 
 Revision History
