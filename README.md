@@ -15,13 +15,13 @@ Task List
 - [x] Order PCB
 - [X] Order Parts
 - [X] Buld PCB
-- [ ] 3d Print Case
-- [ ] Assemble
-- [ ] Test
+- [X] 3d Print Case
+- [X] Assemble
+- [] Test
 
 
 Revision History
 
 [Rev 1.0](https://github.com/goose35/Logic-Probe/releases/tag/R1.0) Fist go. This PCB is on order
 
-[Rev 1.2](https://github.com/goose35/Logic-Probe/releases/tag/R1.1) Silkscreen changes
+[Rev 1.1](https://github.com/goose35/Logic-Probe/releases/tag/R1.1) Silkscreen changes. Smoothing Cap added
