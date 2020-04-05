@@ -22,6 +22,7 @@ Task List
 
 Revision History
 
-[Rev 1.0](https://github.com/goose35/Logic-Probe/releases/tag/R1.0) This PCB is on order
+[Rev 1.0](https://github.com/goose35/Logic-Probe/releases/tag/R1.0) This PCB working
+
 
 [Rev 1.1](https://github.com/goose35/Logic-Probe/releases/tag/R1.1) Silkscreen changes. Smoothing Cap added
